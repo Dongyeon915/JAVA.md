@@ -34,3 +34,14 @@ $ git remote -v
 origin  https://github.com/Dongyeon915/Git-Basic.git (fetch)
 origin  https://github.com/Dongyeon915/Git-Basic.git (push)
 ```
+
+### git branch 전환
+````
+이전 으로 전환
+git checkout -
+````
+
+### git branch 삭제
+````
+$ git branch -d <branchname>
+````
